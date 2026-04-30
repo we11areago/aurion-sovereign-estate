@@ -1,0 +1,47 @@
+PROPRIETARY LICENSE — ASCENSION-AURION SOVEREIGN TRUST
+
+Copyright (c) 2026 Ascension-Aurion Sovereign Trust.
+All rights reserved.
+
+1. OWNERSHIP
+   All intellectual property, source code, algorithms, data structures,
+   configurations, documentation, and derivative works referenced by this
+   repository are the exclusive property of the Ascension-Aurion Sovereign
+   Trust, organized under the laws of the State of Wisconsin, United States.
+
+2. NO LICENSE GRANTED
+   This repository grants NO license, express or implied, to use, copy,
+   modify, distribute, sublicense, or sell any Trust intellectual property.
+   Files herein exist solely to establish timestamped proof of existence.
+
+3. RESTRICTIONS
+   You may NOT:
+   (a) Copy, reproduce, or distribute any content from this repository
+   (b) Reverse-engineer or derive source code from SHA-256 hashes herein
+   (c) Use any information for commercial purposes
+   (d) Create derivative works based on architectures described herein
+   (e) Claim ownership of intellectual property described herein
+   (f) Tamper with cryptographic integrity proofs
+
+4. CRYPTOGRAPHIC INTEGRITY
+   SHA-256 hashes constitute cryptographic proof that the described
+   codebase existed in its exact form at the time of each Git commit.
+   Tampering constitutes fraud and forgery under applicable law.
+
+5. GOVERNING LAW
+   - Wisconsin Statutes Chapter 701 (Trust Code)
+   - 17 U.S.C. Sections 101-810 (U.S. Copyright Act)
+   - 18 U.S.C. Section 1030 (Computer Fraud and Abuse Act)
+
+6. TRUSTEES
+   Jacob Todd Horning — Trustee and Sovereign Architect
+   Melissa Joy Bunger — Co-Trustee and Data Custodian
+
+7. ENFORCEMENT
+   Unauthorized use may result in:
+   - Statutory damages up to USD 150,000 per willful infringement
+     (17 U.S.C. Section 504(c))
+   - Attorney fee recovery (17 U.S.C. Section 505)
+   - Criminal penalties (17 U.S.C. Section 506, 18 U.S.C. Section 2319)
+
+For licensing inquiries, contact the Trustees directly.

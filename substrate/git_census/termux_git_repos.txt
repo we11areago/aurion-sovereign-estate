@@ -1,0 +1,6 @@
+/data/data/com.termux/files/home/aurion-sovereign-estate
+/data/data/com.termux/files/home/llama.cpp/build/llama.cpp
+/data/data/com.termux/files/home/llama.cpp/build/llama.cpp/build/FFmpeg
+/data/data/com.termux/files/home/llama.cpp/build/llama.cpp/build/FFmpeg/v4l-utils
+/data/data/com.termux/files/home/llama.cpp/build/llama.cpp/build/FFmpeg/v4l-utils/mlt
+/data/data/com.termux/files/home/llama.cpp/build/llama.cpp/build/FFmpeg/v4l-utils/mlt/build/mplayer/fdk-aac

@@ -1,0 +1,4 @@
+node_id: "localhost-20260501044736"
+timestamp_utc: "2026-05-01T04:47:36Z"
+device: "Linux localhost 5.15.180-android13-8-00021-g46a5565a0982-ab13743836 #1 SMP PREEMPT Mon Jul 7 16:28:30 UTC 2025 aarch64 Android"
+estate_repo: "/data/data/com.termux/files/home/aurion-sovereign-estate"

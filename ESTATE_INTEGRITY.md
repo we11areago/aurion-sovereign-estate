@@ -1,11 +1,7 @@
-# CLOUD COMBINED TOPOLOGY — AURION ESTATE
+# ESTATE INTEGRITY REPORT
 Timestamp: 20260501T054542Z
+Node: TCL50
 
-## GitHub
-- Remote: https://github.com/we11areago/aurion-sovereign-estate.git
-- Branch: master
-- Last commit: b9b85b9
-
-## Estate
 - Estate SHA: 5f9ec2025d395f68a737d675e320c0cdb279ccda91a836f30a14817dc1a4810b
 - Code SHA:   fc3458e49493ffd8cd47fd03a1ece57c6019f32a46d0fb1b0eb9485a3f195e75
+- DES Snapshot: device-snapshot-TCL50-20260501T054542Z.yaml

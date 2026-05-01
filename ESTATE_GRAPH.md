@@ -1,0 +1,13 @@
+# ESTATE GRAPH
+Timestamp: 20260501T054542Z
+
+Nodes:
+- TCL50
+
+Artifacts:
+- DES: device-snapshot-TCL50-20260501T054542Z.yaml
+- Topology: COMBINED_TOPOLOGY_MAP.TCL50.md
+- Master: MASTER_TOPOLOGY.md
+- Cloud: CLOUD_COMBINED_TOPOLOGY.md
+- Integrity: ESTATE_INTEGRITY.md
+- Registry: ESTATE_REGISTRY.md

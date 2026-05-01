@@ -1,0 +1,39 @@
+timestamp_utc: "20260501T054542Z"
+
+device:
+  hostname: "localhost"
+  kernel: "Linux localhost 5.15.180-android13-8-00021-g46a5565a0982-ab13743836 #1 SMP PREEMPT Mon Jul 7 16:28:30 UTC 2025 aarch64 Android"
+  termux_prefix: "/data/data/com.termux/files/usr"
+
+storage:
+  home_size: "37G"
+  sdcard_size: "0"
+  storage_shared_size: "4.0K"
+
+git:
+  estate_repo_present: "yes"
+  estate_repo_path: "/data/data/com.termux/files/home/aurion-sovereign-estate"
+  estate_repo_branch: "master"
+  estate_repo_status: |
+    
+
+proot_containers:
+  ubuntu: "14543"
+  debian: "109"
+  kali: "4"
+  archlinux: "1"
+
+substrate:
+  engines_count: "0"
+  wheels_count: "0"
+  engines_list: |
+    
+  wheels_list: |
+    
+
+estate_directories:
+  nodes_present: "2"
+  topology_present: "1"
+  integrity_present: "0"
+  estate_graph_present: "0"
+  registry_present: "0"
